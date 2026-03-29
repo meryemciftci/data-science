@@ -32,7 +32,7 @@ data-science/
 * [ ] NumPy
 * [ ] Pandas
 * [ ] Data Visualization (Matplotlib, Seaborn)
-* [ ] Exploratory Data Analysis (EDA)
+* [ ] Exploratory Data Analysis
 * [ ] Feature Engineering and Encoding
 
 ### Supervised Learning — Regression
