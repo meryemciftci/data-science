@@ -1,9 +1,4 @@
-# Data Science Learning Journey
-
-This repository documents a structured learning path in data science and machine learning, based on a comprehensive online course.
-
-The journey begins from the Statistics section, skipping introductory Python and SQL content.
-
+# Data Science
 ---
 
 ## Project Structure
